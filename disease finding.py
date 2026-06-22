@@ -36,7 +36,7 @@ from sklearn.svm import SVC
 
 try:
     from ucimlrepo import fetch_ucirepo
-except ImportError:  # pragma: no cover - handled at runtime with a clear message
+except ImportError:  
     fetch_ucirepo = None
 
 try:
