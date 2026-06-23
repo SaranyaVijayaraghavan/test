@@ -28,7 +28,6 @@ The script also supports UCI fetching through `ucimlrepo` and any structured CSV
 - `disease finding.py`: Main disease prediction training and evaluation script.
 - `Input data/`: Local medical datasets used by the project.
 - `requirements.txt`: Python packages required to run the project.
-- `P2.py`: Earlier handwritten character recognition practice script kept from the original folder.
 
 ## Installation
 
